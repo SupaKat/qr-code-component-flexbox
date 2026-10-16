@@ -40,9 +40,8 @@ body {
 .heading {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  font-size: 23px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .instruction-text {
